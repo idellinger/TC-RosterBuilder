@@ -1,0 +1,26 @@
+{
+    "factions": [
+      {
+        "name": "Heretic Legion",
+        "units": ["Heretic Priest", "Heretic Death Commando", "Heretic Chorister", "Heretic Trooper", "Anointed Heavy Infantry",
+                  "War Wolf Assault Beast", "Artillery Witch"]
+      },
+      {
+        "name": "Trench Pilgrims",
+        "units": ["War Prophet", "Castigator", "Communicant", "Trench Pilgrim", "Ecclesiastic Prisoner", "Stigmatic Nun", "Anchorite Shrine"]
+      },
+      {
+        "name":"The Iron Sultanate",
+        "units": ["Yuzbasi Captain", "Jabirean Alchemist", "Sultanate Assassin", "Azeb", "Sultanate Sapper", "Lion of Jabir",
+                    ]
+      },
+      {
+        "name":"The Principality of New Antioch",
+        "units": []
+      },
+      {
+        "name":"The Cult of the Black Grail",
+        "units": []
+      }
+    ]
+  }
