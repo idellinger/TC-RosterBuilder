@@ -1,0 +1,48 @@
+{
+    "units": [
+      {
+        "name": "Heretic Priest",
+        "cost": 80   
+      },
+      {
+        "name": "Heretic Death Commando",
+        "cost": 90
+      },
+      {
+        "name": "Heretic Chorister",
+        "cost": 65
+      },
+      {
+        "name": "Heretic Trooper",
+        "cost": 30
+      },
+      {
+        "name": "Anointed Heavy Infantry",
+        "cost": 95
+      },
+      {
+        "name": "Unit 2",
+        "cost": 60
+      },
+      {
+        "name": "Unit 2",
+        "cost": 60
+      },
+      {
+        "name": "Unit 2",
+        "cost": 60
+      },
+      {
+        "name": "Unit 2",
+        "cost": 60
+      },
+      {
+        "name": "Unit 2",
+        "cost": 60
+      },
+      {
+        "name": "Unit 2",
+        "cost": 60
+      },
+    ]
+  }

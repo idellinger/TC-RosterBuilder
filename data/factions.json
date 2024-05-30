@@ -11,16 +11,16 @@
       },
       {
         "name":"The Iron Sultanate",
-        "units": ["Yuzbasi Captain", "Jabirean Alchemist", "Sultanate Assassin", "Azeb", "Sultanate Sapper", "Lion of Jabir",
-                    ]
+        "units": ["Yuzbasi Captain", "Jabirean Alchemist", "Sultanate Assassin", "Azeb", "Sultanate Sapper", "Lion of Jabir", "Janissaries",
+                  "Brazen Bull"]
       },
       {
         "name":"The Principality of New Antioch",
-        "units": []
+        "units": ["Lieutenant", "Trench Cleric", "Sniper Priest", "Yeoman", "Shocktrooper", "Combat Engineer", "Mechanised Heavy Infantry", "Combat Medic"]
       },
       {
         "name":"The Cult of the Black Grail",
-        "units": []
+        "units": ["Lord of Tumours", "Plague Knight", "Corpse Guard", "Hound of the Black Grail", "Grail Thrall", "Herald of Beelzebub", "Amalgam"]
       }
     ]
   }
